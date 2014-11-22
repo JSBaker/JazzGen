@@ -1,7 +1,7 @@
 JazzGen
 =======
 
-JazzGen - Competitive algorithmic jazz trio for SuperCollider.
+JazzGen - Competitive algorithmic jazz trio extension for SuperCollider.
 
 JazzGen is an autonomous jazz music generator that produces infinite length pieces. The three instruments (piano, bass and drums) receive scores based upon their performance compared to the others, and this is used as a weighted probability to determine how flamboyant their musical flourishes are in the next bar or beat. A consistently high performance will be rewarded with a solo at the end of the phrase. 
 
